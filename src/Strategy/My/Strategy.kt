@@ -1,4 +1,4 @@
-package Strategy
+package Strategy.My
 
 class Context(private val strategy1: Strategy1, private val strategy2: Strategy2) {
     fun useStrategy1() = strategy1.use()
@@ -38,7 +38,10 @@ class Strategy2B : Strategy2 {
 }
 
 fun main() {
-    val context = Context(Strategy1A(), Strategy2B())
+    val context = Context(
+        Strategy1A(),
+        Strategy2B()
+    )
     context.useStrategy1()
     context.useStrategy2()
 }
