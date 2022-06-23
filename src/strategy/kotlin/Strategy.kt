@@ -1,4 +1,4 @@
-package Strategy.Kotlin
+package strategy.kotlin
 
 class UncertainAnimal {
     var makeSound = fun () {

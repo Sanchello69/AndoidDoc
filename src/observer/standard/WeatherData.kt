@@ -1,4 +1,4 @@
-package Observer.Standard
+package observer.standard
 
 class WeatherData : Observable {
     override val observers: ArrayList<Observer> = ArrayList()

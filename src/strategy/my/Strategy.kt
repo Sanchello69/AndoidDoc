@@ -1,4 +1,4 @@
-package Strategy.My
+package strategy.my
 
 class Context(private val strategy1: Strategy1, private val strategy2: Strategy2) {
     fun useStrategy1() = strategy1.use()

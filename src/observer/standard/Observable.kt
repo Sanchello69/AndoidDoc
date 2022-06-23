@@ -1,4 +1,4 @@
-package Observer.Standard
+package observer.standard
 
 interface Observable {
     val observers: ArrayList<Observer>

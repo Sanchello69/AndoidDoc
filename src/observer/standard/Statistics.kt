@@ -1,4 +1,4 @@
-package Observer.Standard
+package observer.standard
 
 class Statistics(weatherData: WeatherData) : Observer {
 

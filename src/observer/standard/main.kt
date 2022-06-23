@@ -1,4 +1,4 @@
-package Observer.Standard
+package observer.standard
 
 fun main() {
     val weatherData = WeatherData()
