@@ -39,3 +39,4 @@ Companion object позволяет легко реализовать Фабри
 ## Ссылки на полезные материалы 
 - [Паттерны проектирования в Kotlin.](https://habr.com/ru/post/421873/)
 - [Деллегирование в Kotlin.](https://kotlinlang.ru/docs/delegation.html)
+- [Паттерн проектирования Builder (Строитель) в Java](https://habr.com/ru/company/otus/blog/552412/)
