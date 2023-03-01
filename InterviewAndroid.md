@@ -318,3 +318,4 @@ WorkManager - рекомендуемое решение для отложенн�
 - [DataStore Library](https://habr.com/ru/company/tinkoff/blog/525010/)
 - [Про некоторые компоненты из Android Architecture Components](https://habr.com/ru/post/332562/)
 - [WorkManager](https://habr.com/ru/company/simbirsoft/blog/553912/)
+- [Dalvik и ART](https://habr.com/ru/post/513928/)
