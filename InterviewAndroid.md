@@ -7,6 +7,7 @@
  - [Context](#context)
  - [Manifest](#manifest)
  - [Architecture Components](#architecture_components)
+ - [Отрисовка View](#view)
  - [Ссылки на полезные материалы](#источники)
 
 ## ЖЦ Activity <a name="жц_активити"></a>
@@ -310,6 +311,14 @@ LiveData - это observable data holder класс. В отличие от об
 ### WorkManager <a name="workmanager"></a>
 
 WorkManager - рекомендуемое решение для отложенной фоновой работы, такой как запланированные задачи при перезапуске приложения и перезагрузке системы.
+ 
+## Отрисовка View <a name="view"></a>
+
+<p align="center">
+  <img height="500" src="view_life_cycle.png">
+</p>
+ 
+
  
 ## Ссылки на полезные материалы <a name="источники"></a>
 - [Памятка по жизненному циклу Android.](https://habr.com/ru/post/569092/)
